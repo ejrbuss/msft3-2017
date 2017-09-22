@@ -1,0 +1,16 @@
+{
+  "name": "mscc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "harmony": "cat harmony.txt | node hello",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^3.0.2",
+    "moment": "^2.18.1"
+  }
+}
